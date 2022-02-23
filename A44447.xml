@@ -1,0 +1,501 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gloria· A poem, in honour of pious majesty, occasioned by the safe, happy, and much-wish'd for return of our dread soveraign lord King William. By, Mr. Hopkins.</title>
+            <author>Hopkins, John, fl. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44447</idno>
+            <idno type="STC">Wing H2746</idno>
+            <idno type="STC">ESTC R224174</idno>
+            <idno type="EEBO-CITATION">99834541</idno>
+            <idno type="PROQUEST">99834541</idno>
+            <idno type="VID">39042</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39042)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1812:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gloria· A poem, in honour of pious majesty, occasioned by the safe, happy, and much-wish'd for return of our dread soveraign lord King William. By, Mr. Hopkins.</title>
+                  <author>Hopkins, John, fl. 1700.</author>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for H. Newman, at the Grass-Hopper in the Poultry,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39042:1"/>
+            <p>GLORIA.</p>
+            <p>A POEM, In Honour of PIOUS MAJESTY, Occaſioned by the <hi>Safe, Happy,</hi> and <hi>Much-wiſh'd for</hi> Return OF OUR DREAD SOVERAIGN LORD King William.</p>
+            <p>By, Mr. <hi>HOPKINS.</hi>
+            </p>
+            <q xml:lang="lat">Perituro Ingenio; Gloria Perennis.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Newman,</hi> at the <hi>Graſs-Hopper</hi> in the <hi>Poultry.</hi> 1700.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:39042:2"/>
+            <pb facs="tcp:39042:2"/>
+            <head>TO HIS GRACE <hi>JAMES</hi> Duke of ORMOND, &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe Your Grace,</salute>
+            </opener>
+            <p>THE Dedicating <hi>Poet</hi> has but one only Plea, whereby to Vindicate his Preſumption againſt the various Cenſures of the World; and that I justly Claim, while I Addreſs your Grace.</p>
+            <p>The Acknowledging Favours receiv'd, can never be imputed to me as a Crime, ſince the very looſeſt Senſe of Gratitude obliges all to pay it as a Duty.</p>
+            <p>A Duty it muſt be confeſs'd in thoſe, whoſe Merits and whoſe Services ſeem to Engage them; but in me, it were the utmoſt Baſeneſs not to re<g ref="char:EOLhyphen"/>turn my humbleſt Thanks; in me, who have been in a ſingular manner greatly favour'd by your Grace, to whom, I have not yet had the Honour to be Perſonally known.</p>
+            <p>But indeed, whom is it your Grace inclines not to oblige? Your Good<g ref="char:EOLhyphen"/>neſs ſtoops as univerſally to the Wants of Mankind, as your Greatneſs ſoars above them. And unbyaſs'd by the Customary Opinion of the World, Your Grace is ſo far from believing a Man undeſerving, becauſe unfortu<g ref="char:EOLhyphen"/>nate, that his very Indigence in a great meaſure entitles him to your Pro<g ref="char:EOLhyphen"/>tection. Vertue is often Ragged, tho' 'tis the true Nobility; yet ſo well, ſo juſtly your Grace diſtinguiſhes between Man and Man, that while I ac<g ref="char:EOLhyphen"/>knowledge your Grace's Favour to me, in that Acknowledgment I boast a ſeeming Merit.</p>
+            <p>This is your Grace's Character, and I'll be hold to ſay your Grace draws thence as true Nobility, as from your Illuſtrious Birth: Or, to run higher ſtill, from your yet more Illuſtrious Actions. Your Grace's Vertues can be ſhown by no Compariſon but of themſelves: They ſtand a full created Orb of real Grandeur, and poiz'd by their own centring parts, there needs no Pen, no Pillar to be rais'd to prop them. Cou'd Poetry diſplay your Grace, Great as you are, and generouſly Good, and truly Noble; tho' your tranſ<g ref="char:EOLhyphen"/>cendent Excellencies are univerſally acknowledg'd and admir'd; and it grows
+<pb facs="tcp:39042:3"/>thence impoſſible I ſhould be thought to dare attempt mean Flattery; yet 'tis not for me to undertake ſo great a Draught, for me, whoſe very Name ſtands with an Infamous Brand, as long as Letters live, accurst in Verſe.</p>
+            <p>Hence I grow ſtill more ſenſible of my preſumptuous Acknowledgments, and fear my very Gratitude may render me the more Ingrateful.</p>
+            <p>But t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whom ſhould the Fame of Royal <hi>Naſſaw</hi> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e moſt dear, but to your Grace<g ref="char:punc">▪</g> for whoſe Glorious Intreſts <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one has ventur'd m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re; and ind<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one had more to venture.</p>
+            <p>I ſhall only now beg leave to aſſure your Grace, you are not, you cannot be, more faithfully your King's, than I am</p>
+            <closer>
+               <signed>Your Grace's moſt Obliged, and moſt Devoted Humble Servant.
+<hi>J. HOPKINS.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="Pindaric">
+            <pb n="1" facs="tcp:39042:3"/>
+            <head>TO THE MUSE.</head>
+            <head type="sub">A PINDARICK.</head>
+            <lg>
+               <head>I.</head>
+               <l>SING Muſe, the Man, Muſe, praiſe the Godlike Man!</l>
+               <l>And bid him welcome ore;</l>
+               <l>Welcome him Muſe to his own <hi>Albion</hi> Shore:</l>
+               <l>The lofty Trumpet of whoſe Fame,</l>
+               <l>Firſt blew thy daring Fancy to a Flame:</l>
+               <l>Soon as thy downy Flight began,</l>
+               <l>Rouz'd Thee to ſtretch thy unexperienc'd Wing.</l>
+               <l>To Mount, to Soar, and Sing</l>
+               <l>Triumphant Peace, the Conqueror and the King.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>Not now in queſt what Hero thou ſhalt raiſe,</l>
+               <l>Praiſe <hi>Naſſaw,</hi> Muſe, <hi>Naſſaw</hi> claims all thy Praiſe.</l>
+               <l>Mount, mount, and beat the Sky of Fame,</l>
+               <l>Bear on thy leaded Wings the weighty Name.</l>
+               <l>
+                  <pb n="2" facs="tcp:39042:4"/>
+Up to the utmoſt Limits fly,</l>
+               <l>The utmoſt Limits of the Muſe's Sky,</l>
+               <l>Thro' the Aerial Regions of the Mind,</l>
+               <l>And leave dull Judgment, gravely ſlow, behind.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>How can thy trackleſs Courſe <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Verſe be ta<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>t,</l>
+               <l>How in Judicious M<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hod brought.</l>
+               <l>Notions unform'd, and Clo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s of miſty T<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ught!</l>
+               <l>Where lightning Fancy, quick in Flaſhes breaks,</l>
+               <l>And paints the guilded way with gay diſcolour'd ſtreaks.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>Strike, ſtrike my Muſe, bold, ſtrike the lo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty Stars,</l>
+               <l>Once Mortal Heroes in Illuſtrious Wars;</l>
+               <l>There the great Name of <hi>NASSAW</hi> bear,</l>
+               <l>Exalted high, above all others far,</l>
+               <l>Mount the tranſcendantictor,</l>
+               <l>And fix, for ever fix it there.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>Thence thy unſhady Wings extend,</l>
+               <l>And thy ſtrong Courſe to thy own <hi>Phabus</hi> bend:</l>
+               <l>Within the Luſt'rous Chariot of the <hi>Sun,</hi>
+               </l>
+               <l>The Goddeſs <hi>Gloria</hi>'s Seat behold,</l>
+               <l>Where ſparkling Jewels deck the poliſh'd Gold.</l>
+               <l>Clap, clap thy Wings at her Immortal Throne;</l>
+               <l>Whoſe Regal Globe, unfix't, turns ever round,</l>
+               <l>On which nor eſt for <hi>Gloria</hi>'s Feet is found.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>Looſe, in a Garment of Coeleſtial Air,</l>
+               <l>Behold, behold, ſhe hovers there;</l>
+               <l>
+                  <pb n="3" facs="tcp:39042:4"/>
+With Wings of Adamant ſhe flys;</l>
+               <l>Her Face divinely bright,</l>
+               <l>Quick, tremulous Rays ſtream from her glowing Eyes,</l>
+               <l>And dazzle <hi>Phaebus</hi> Sight.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>In her Right Hand ſhe hears a Starry Crown,</l>
+               <l>Whoſe weight bends even her Arm, the Arm of <hi>Gloria</hi> down.</l>
+               <l>This Prize to <hi>Naſſaw,</hi> She ſhall thence transfer;</l>
+               <l>
+                  <hi>Naſſaw</hi> has purchas'd that by winning her.</l>
+               <l>Her other Hand a Golden Trumpet bears,</l>
+               <l>Which ſets Heroick Souls on Flame,</l>
+               <l>And gives the Signal to the Trump of Fame.</l>
+               <l>Perch'd on her Head an Eagle fierce appears,</l>
+               <l>Which, whenſoe'er the Noble Signal's given,</l>
+               <l>Shakes her ſtrong Wings, and Soaring, Strikes at Heaven.</l>
+            </lg>
+            <lg>
+               <head>VIII.</head>
+               <l>Hark! hark! the lofty Charge She ſounds,</l>
+               <l>And from her Sacred Stand,</l>
+               <l>Loe! How the glowing Goddeſs bounds,</l>
+               <l>Stretching to thee, Dread Muſe! her loaded Hand.</l>
+               <l>Hark! Hark the Trumpets Voice - <hi>Receive</hi>
+               </l>
+               <l>
+                  <hi>This Crown,</hi> ſhe ſounds, <hi>and to my</hi> Naſſaw <hi>give.</hi>
+               </l>
+               <l>Deſcend my Muſe, thou <hi>Gloria</hi> be obey'd.</l>
+               <l>The Crown is <hi>Naſſaw</hi>'s, tho' not gives, but paid.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="4" facs="tcp:39042:5"/>
+            <head>To THE KING.</head>
+            <lg>
+               <l>WElcome, thrice welcome to thy happy Shore,</l>
+               <l>
+                  <hi>Albion,</hi> made happy by thy coming or'e.</l>
+               <l>Welcome again, while at thy ſafe Return</l>
+               <l>Thy People ſmile, who did thy Abſence mourn.</l>
+               <l>Scarce from continu'd Welcomes can we ceaſe,</l>
+               <l>Welcome—as when at firſt thou brought'ſt us glorious Peace.</l>
+               <lg>
+                  <l>Bleſt be the ſmiling Surges of the Sea,</l>
+                  <l>Which thro' their cleaving Boſom yield their way;</l>
+                  <l>The Conſcious Floods the Ocean's Lord obey.</l>
+               </lg>
+               <l>Thy boſom'd Sails young ſportive Zephirs bear,</l>
+               <l>And court thy waving Streamers in the Air.</l>
+               <l>The tuneful Air does to their Muſick yield,</l>
+               <l>And the Waves dance along the watry Field.</l>
+               <l>Thy ſwelling Canvas ſeems the Winds to blame,</l>
+               <l>Swol'n not with Breezes, but the Breath of Fame.</l>
+               <l>Officious Winds! reſtrain your uſeleſs Gales,</l>
+               <l>Immortal Glory fills her <hi>N<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>'<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>Sail<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <lg>
+                  <l>Before thy Ship, Smooth ſpreads the Liquid Plain,</l>
+                  <l>Down doſt thou glide, down thy deſcending Main,</l>
+                  <l>The happ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Emblem of thy proſp'rous Reign.</l>
+               </lg>
+               <l>The Veſſel thus does with the Oceans flow;</l>
+               <l>So doſt thou Rule us, condeſcending ſo;</l>
+               <l>
+                  <pb n="5" facs="tcp:39042:5"/>
+With eaſie Pow'rs thy Beaks thro' Waters ſweep,</l>
+               <l>Thou cleav'ſt our Boſoms, as they cleave the Deep.</l>
+               <l>Short is thy Paſſage from the <hi>Belgian</hi> Port,</l>
+               <l>Short tho' it be, yet it appears not ſhort.</l>
+               <l>Behind thy Ship the conſcious Oceans roar,</l>
+               <l>Daſh their big rolling Waves—</l>
+               <l>And urge their Monarch to his <hi>Albion</hi> ſhore.</l>
+               <l>Whilſt from <hi>Batavia</hi> thy ſwift Veſſel flies,</l>
+               <l>As <hi>Belgia</hi> leſſens, ſhall <hi>Brittania</hi> riſe.</l>
+               <l>
+                  <hi>Belgia</hi> and <hi>Brittain</hi> claim alike their Lord,</l>
+               <l>Both doſt thou Sway, and art in both ador'd.</l>
+               <l>Great is the love thy <hi>Belgia</hi> does expreſs,</l>
+               <l>Great tho' it be, yet is not <hi>Brittain</hi>'s leſs.</l>
+               <l>May thy bleſt Reign ſtill thus auſpicious prove,</l>
+               <l>Still live they Rivals in their Loyal Love.</l>
+               <l>Roll on ye Tides, ye ſwelling Surges roll,</l>
+               <l>Reviving <hi>Albion</hi> ſhall receive her Soul.</l>
+               <lg>
+                  <l>Now heave the watry Mountains of the Main,</l>
+                  <l>And ſeem to feel, but with the Lover's pain,</l>
+                  <l>The preſſing weight of Empire they ſuſtain.</l>
+               </lg>
+               <l>Thus, when the Ark was o'er the Oceans hurl'd.</l>
+               <l>The Oceans groan'd beneath the rond'rous World.</l>
+               <l>The maſſy State of the whole World they bore,</l>
+               <l>Of the whole World which they had drourn'd before.</l>
+               <l>When the <hi>Almighty</hi> his Creation made,</l>
+               <l>The vaſt Deſign was on the Waters lay'd.</l>
+               <l>On Mother <hi>Deep</hi> the forming <hi>Godhead</hi> lay,</l>
+               <l>And from her gloomy Womb ſprung the Light, active day.</l>
+               <l>
+                  <pb n="6" facs="tcp:39042:6"/>
+Thus roſe the World by the Creative Will,</l>
+               <l>And as at firſt 'twas form'd, 'tis Govern'd ſtill.</l>
+               <l>
+                  <hi>Naſſaw,</hi> to Thee this ſecret Charge is given,</l>
+               <l>To Thee, the Darling Subſtitute of Heaven.</l>
+               <l>Like Juſtice Self, thou doſt Heaven's Aims purſue,</l>
+               <l>Weild'ſt the ſtrong Sword, and hold'ſt the Ballance too.</l>
+               <l>Thou, the vow'd Foe to the <hi>Almighty</hi>'s Foes,</l>
+               <l>Giv'ſt Bliſs to <hi>Europe,</hi> to the World Repoſe.</l>
+               <l>Kingdoms, once Rivals, thro' their Fears agree,</l>
+               <l>Who offers Wrong, proclaims the War with Thee.</l>
+               <l>Thus their old Crowns the Heads of Monarchs wear,</l>
+               <l>Poſſeſt of Empire, not thro' Force, but fear.</l>
+               <l>Princes to Thee their Purple Honours owe;</l>
+               <l>From Thee, the Source of Majeſty they flow.</l>
+               <l>Sheathing their Swords, their Scepters they may uſe,</l>
+               <l>But weilding thoſe, they muſt their Seepters loſe.</l>
+               <l>Thus, thus, behold the Glorious <hi>Naſſaw</hi> ſtands,</l>
+               <l>Monarchs, and Thrones, and Kingdoms he Commands,</l>
+               <l>Three on his Regal Head.—</l>
+               <l>But Univerſal Empire in his Hands.</l>
+               <l>Thus Reign'd <hi>Augustus,</hi> thus his Sway was hurld,</l>
+               <l>Thus Ruling <hi>Rome;</hi> he over-ruld ſhe World.</l>
+               <l>Repine not <hi>Albion,</hi> let no Breath complain,</l>
+               <l>
+                  <hi>Jove</hi> does not ever on <hi>Olympus</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</l>
+               <l>Where <hi>Naſſaw</hi> goes, his Fame, thy Safety call;</l>
+               <l>His Tread muſt poize the partial pendent Ball;</l>
+               <l>The <hi>Lord</hi> of <hi>Britain</hi> Reigns the <hi>Lord</hi> of all.</l>
+               <l>As well we might at the Sun's Courſe repine,</l>
+               <l>The Sun, which round the Univerſe muſt ſhine.</l>
+               <l>
+                  <pb n="7" facs="tcp:39042:6"/>
+Like his, diffuſive is our <hi>Naſſaw</hi>'s Light,</l>
+               <l>Preſent, 'tis Day, but when he leaves us, Night.</l>
+               <l>Like his, have <hi>Naſſaw</hi>'s mighty Labours prov'd,</l>
+               <l>He ripens Fruits, when from our view remov'd.</l>
+               <l>
+                  <hi>Great! Good!</hi> and <hi>Just!</hi> What Pillars ſhall I caiſe?</l>
+               <l>Verſe, dying Verſe ſupports not <hi>Naſſaw</hi>'s Praiſe.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>The Invocation.</head>
+            <l>Whom ſhall I urge, whoſe happier Muſe to ſing,</l>
+            <l>Welcomes return'd to our returning King?</l>
+            <l>Shall <hi>Dorſet, Cutts,</hi> ſhall <hi>Montague</hi> be Nam'd,</l>
+            <l>For Numbers Nobly as for Honours fam'd?</l>
+            <l>Hail, great <hi>Triumvirate</hi> of ſacred Wit!</l>
+            <l>Great is your Fame, who have ſo greatly writ:</l>
+            <l>The nobleſt ends of Greatneſs you purſue,</l>
+            <l>The beſt of Poets, beſt of Patrons too.</l>
+            <l>What tuneful Muſe, tho' ſoaring can rehearſe</l>
+            <l>Which ſweeteſt flows, your Bounty, or your Verſe?</l>
+            <lg>
+               <l>Both flow from Nature, unconſtrain'd and free;</l>
+               <l>Praiſe you your <hi>Naſſaw,</hi> be ador'd by me;</l>
+               <l>
+                  <hi>Parnaſſw</hi> Heads ſhall be reputed three.</l>
+            </lg>
+            <l>On laſting Pyramids his Name be rais'd,</l>
+            <l>Praiſe God-like <hi>Naſſaw,</hi> if he can be prais'd.</l>
+            <lg>
+               <l>Weakly my Muſe attempts in vain to riſe,</l>
+               <l>Blaſted by Fate, groveling, and low ſhe lies,</l>
+               <l>Claps oft her ſickly Wings—but never, never flies.</l>
+            </lg>
+            <l>For Nobler Ends than fancy'd Praiſe you ſhine,</l>
+            <l>Not to be reach'd by any Muſe—</l>
+            <l>At diſtance to be ſeen, rever'd by mine.</l>
+            <l>Shall <hi>Congreve</hi> riſe? ſucceſsful, high in Fame;</l>
+            <l>
+               <hi>Congreve</hi> has gain'd, and he deferves a Name.</l>
+            <l>Unenvy'd riſe, exert thy utmoſt skill,</l>
+            <l>And grow, tho' now the greateſt, greater ſtill.</l>
+            <l>In vain I court, as I admir'd in vain,</l>
+            <l>With Lover's Tranſport, yet with Lover's Pain.</l>
+            <l>Even <hi>Naſſaw</hi>'s Fame, while I invoke, you flee,</l>
+            <l>Yet ſure my Verſe ne're imur'd ought —but hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</l>
+            <l>Let conſcious Criminals for Crimes ſubmit,</l>
+            <l>I ſhould not guiltleſs bend—,</l>
+            <l>Were you your ſelf Immortal as your Wit.</l>
+            <l>Riſe <hi>Congreve,</hi> riſe with thy unequal'd Charms,</l>
+            <l>And ſing the Man, the God-like Man, and Arms,</l>
+            <l>Quit the falſe Promp, the ſhaddow'd Scene diſplays,</l>
+            <l>And make not Heroes, but the Hero praiſe.</l>
+            <lg>
+               <l>Draw him, whoſe Glories Fancy's Beams out-ſhine,</l>
+               <l>The Hero, Great, Illuſtrious and like thine</l>
+               <l>The Hero, worthy of a Muſe Divine.</l>
+            </lg>
+            <l>Spread our Immortal <hi>Naſſaw</hi>'s Actions far,</l>
+            <l>As Fam'd in Verſe, as <hi>Naſſaw</hi>'s ſelf in War.</l>
+            <l>
+               <pb n="8" facs="tcp:39042:7"/>
+Oft ſtrikes thy Muſe bright Fame's <hi>Gaerulean</hi> Skies,</l>
+            <l>Yet art thou riſing ſtill, and ſtill to riſe.</l>
+            <l>Sill may you riſe, ſtill <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſublimely Soar,</l>
+            <l>Your Fame ſo much, till I can't wiſh it more.</l>
+            <l>My Muſe mounts too be<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ted thus ſhe ſings;</l>
+            <l>As Wrens Tow'r high, born on the Eagle's Wings.</l>
+            <l>Pitcht for the Flight, bear Sir, aſpiring bear</l>
+            <l>The Glorious <hi>Naſſaw</hi> thro' the fiery Air.</l>
+            <l>Whilſt on this Theam thy glowing thought ſhall dwell,</l>
+            <l>Excel—if poſſible, thy ſelf excel.</l>
+            <l>Loſe then thy pow'rs, thy ſtrugling Genius loſe,</l>
+            <l>The nobleſt <hi>Hero</hi> claims the nobleſt <hi>Muſe.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <head>Inſtructions to a Painter.</head>
+            <l>Before Thee there the ready Painter ſtands,</l>
+            <l>Inſpire his Fancy, and inſpire his Hands.</l>
+            <lg>
+               <l>Thou <hi>Naſſaw</hi>'s Glories to the Artiſt ſhow,</l>
+               <l>So ſhall he paint, that all the Draught may know,</l>
+               <l>
+                  <hi>Naſſaw,</hi> who ſeems Immortal, ſhall be ſo</l>
+            </lg>
+            <l>Paint him Triumphant ore the peaceful Ball,</l>
+            <l>And at his Feet let <hi>Europe</hi>'s Scepters fall.</l>
+            <l>Paint him Inſtructing Heroes in the Field,</l>
+            <l>Paint him at once War's Thunderbolt and Sheild.</l>
+            <l>Paint him unmov'd in Dangers and in Blood,</l>
+            <l>Yet paint him Mild, and mercifully good.</l>
+            <l>Behind this <hi>Mars</hi> let fierce <hi>Bellona</hi> ſtand,</l>
+            <l>But paint <hi>Aſtraea</hi> ſmiling in his Hand.</l>
+            <l>To him be every mortal Vertue given,</l>
+            <l>Paint him the Conqu'ror of the Earth—</l>
+            <l>Paint too the pious Hero Conqu'ring Heaven</l>
+            <l>Beneath his Throne, let the luſt Pencil draw</l>
+            <l>That ill fam'd Chief, who kept the World in a we.</l>
+            <l>Fix on the Ground <hi>Macedo</hi>'s weeping Eyes,</l>
+            <l>But fix the loftier <hi>Naſſaw</hi>'s on the Skies</l>
+            <l>A future World this Monarch holds in view,</l>
+            <l>By pious force he ſhall that World ſubdue.</l>
+            <l>Abroad, he leading, we our Foes or'ecome,</l>
+            <l>And o'er our Selves grow Conquerors at home.</l>
+            <l>Whilſt our own Will our Paſſions ſhall reſtrain,</l>
+            <l>He gives us each an Empire where to Reign.</l>
+            <l>What Pen, what Pencil ſtrikes the vaſt Extent?</l>
+            <l>The <hi>Godhead</hi> can't be ſhaddow'd out by Poetry or Paint.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39042:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
